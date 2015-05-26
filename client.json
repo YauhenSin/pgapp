@@ -1,1 +1,5 @@
-{"key":"devuniqueapikey","remote":"http:\/\/ai5m.artprastora.by\/api\/v1\/","locale":"en"}
+{
+  "key": "devuniqueapikey",
+  "remote": "http://ai5m.artprastora.by/api/v1/",
+  "locale": "en"
+}
