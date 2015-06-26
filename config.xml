@@ -53,7 +53,6 @@
     <gap:plugin name="org.apache.cordova.dialogs" />
     <gap:plugin name="org.apache.cordova.vibration" />
     <gap:plugin name="org.apache.cordova.media" />
-    <gap:plugin name="org.apache.cordova.geolocation" />
 
     <!--
     <gap:plugin name="org.apache.cordova.splashscreen" />
@@ -65,12 +64,6 @@
         <gap:plugin name="com.phonegap.plugins.barcodescanner" />
     -->
     <gap:plugin name="com.phonegap.plugins.pushplugin" version="2.1.1" />
-
-
-    <feature name="Geolocation">
-        <param name="android-package" value="org.apache.cordova.geolocation.GeoBroker" />
-        <param name="ios-package" value="CDVLocation" />
-    </feature>
 
     <!-- Define app icon for each platform. -->
     <!-- <icon src="icon.png" /> -->
